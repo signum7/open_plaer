@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.934,C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\main.dfm=C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.934,C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\main.pas=C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.080,C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\plaer.dproj=C:\Users\slava\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\uTime.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\Unit1.pas=C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\uTime.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\Unit1.pas</Transaction>
+    <Transaction>2020.05.02 21:57:29.749,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\Unit2.pas</Transaction>
+    <Transaction>2020.05.02 21:58:24.993,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\OKCANCL2.pas</Transaction>
+    <Transaction>2020.05.03 19:00:03.575,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\Unit1.pas</Transaction>
+    <Transaction>2020.05.03 19:00:55.973,C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\MT19937.pas=C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\Unit1.pas</Transaction>
+    <Transaction>2020.05.11 00:05:16.726,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\Unit1.pas</Transaction>
+    <Transaction>2020.05.11 00:06:07.359,C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\wavf.pas=C:\Users\slava\Documents\Embarcadero\Studio\Projects\plaer\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
